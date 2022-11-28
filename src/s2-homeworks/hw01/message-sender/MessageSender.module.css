@@ -1,0 +1,35 @@
+.sendForm {
+    display: flex;
+    margin: 5rem 5rem;
+    justify-content: space-between;
+}
+
+.textarea {
+    display: table-cell;
+    width: 100%;
+    min-height: 2rem;
+    margin-right: 10rem;
+    background-color: rgba(52, 208, 167, 0.27);
+    border: none;
+    border-radius: 0.8rem;
+    resize: none;
+    outline: none;
+    overflow: auto;
+    box-shadow: none;
+}
+
+.button {
+    width: 6%;
+    border: none;
+    border-radius: 0.8rem;
+    background-color: #0066cc;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+.button:hover {
+
+}
+.button:active {
+
+}
